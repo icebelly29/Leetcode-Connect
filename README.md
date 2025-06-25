@@ -55,19 +55,6 @@ Track your LeetCode journey in real-time. LeetCode Connect is a lightweight Andr
 
 4. On first launch, click "Set Username" → Enter your LeetCode username → Save.
 
---------------------------------------------------------------------------------
-
-📂 Project Structure
-
-com.leetcodetracker
-│
-├── model              # Data models (UserStats, API response)
-├── data               # Repository and API interaction
-├── utils              # SharedPreferences helper
-├── viewmodel          # ViewModel for managing UI state
-├── widget             # Home screen widget logic
-├── MainActivity.kt    # App launcher screen
-├── UsernameActivity.kt# Settings screen for entering LeetCode username
 
 --------------------------------------------------------------------------------
 
