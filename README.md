@@ -45,7 +45,7 @@ Track your LeetCode journey in real-time. LeetCode Connect is a lightweight Andr
 
 1. Clone this repository:
 
-   git clone https://github.com/yourusername/leetcode-connect.git
+   git clone [https://github.com/yourusername/leetcode-connect.git](https://github.com/icebelly29/Leetcode-Connect)
 
 2. Open in Android Studio:
 
@@ -69,7 +69,7 @@ Track your LeetCode journey in real-time. LeetCode Connect is a lightweight Andr
 
 🙌 Acknowledgements
 
-- LeetCode Stats API by https://github.com/realdonaldtrump/leetcode-stats-api
+- LeetCode Stats API by [https://github.com/realdonaldtrump/leetcode-stats-api](https://leetcode-stats-api.herokuapp.com/)
 - Android Developer Documentation
 - Inspiration from Duolingo’s streak tracking design
 
